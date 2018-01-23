@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\UISirius\Sirius\obj\Debug\Sirius.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\UISirius\Sirius\obj\Debug\Sirius.csproj.CoreCompileInputs.cache
